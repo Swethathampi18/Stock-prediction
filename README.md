@@ -1,3 +1,4 @@
+STOCK MARKET PREDICTION
 📈 Stock Market Prediction with LSTM
 A comprehensive deep learning solution for stock price prediction using Long Short-Term Memory (LSTM) neural networks. This project provides an end-to-end pipeline from data preprocessing to future price forecasting.
 
